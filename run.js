@@ -1,3 +1,6 @@
+// Developer: Osama Hussain
+// GitHub:    https://github.com/OsamaHussain
+
 // Counting Each Letter in a Given String
 const count_letters = (s) => {
   let result = [];
